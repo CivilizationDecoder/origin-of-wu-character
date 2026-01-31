@@ -1,6 +1,10 @@
 a# research-on-wu-character
-  A groundbreaking study on the astronomical origin of the Chinese character "Wu" (午) and its cultural implications.  
-学术诚信与思想主权声明
+  A groundbreaking study on the astronomical origin of the Chinese character "Wu" (午) and its cultural implications. 
+  # 《“午”字考源》研究仓库
+
+> **📢 最新状态**：本研究论文已作为预印本在 Figshare 正式发表。
+> **🆕 最新发布**：点击查看或下载 [v1.1 完整手稿发布](https://github.com/CivilizationDecoder/origin-of-wu-character/releases/tag/v1.1)
+> **📍 引用链接**：**https://doi.org/10.6084/m9.figshare.31212076**学术诚信与思想主权声明
 
 本文档（仓库）旨在提出并论证关于汉字“午”起源的假说。为保障研究过程的可验证性与思想主权的明确性，特此声明：
 
