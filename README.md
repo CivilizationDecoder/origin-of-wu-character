@@ -1,11 +1,23 @@
 a# research-on-wu-character
   A groundbreaking study on the astronomical origin of the Chinese character "Wu" (午) and its cultural implications. 
   # 《“午”字考源》研究仓库
+  
+## 📄 最新预印本
 
-> **📢 最新状态**：本研究论文已作为预印本在 Figshare 正式发表。
-> **最新发布**：点击查看或下载 [v1.2 完整手稿发布](https://github.com/CivilizationDecoder/origin-of-wu-character/releases/download/v1.2/Chen_X_2026_Origin_of_Character-v1.2.pdf)
+**版本：v1.3**
+- 🔗 [直接预览 PDF](https://github.com/CivilizationDecoder/origin-of-wu-character/raw/main/Chen_X_2026_Origin_of_Character-v1.3.pdf)
+- 📥 [下载 v1.3](https://github.com/CivilizationDecoder/origin-of-wu-character/releases/download/v1.3/Chen_X_2026_Origin_of_Character-v1.3.pdf)
+- 📝 [查看版本日志](https://github.com/CivilizationDecoder/origin-of-wu-character/releases/tag/v1.3)
 > **📍 引用链接**：**https://doi.org/10.6084/m9.figshare.31212076**
-> 学术诚信与思想主权声明
+> 
+> ### 更新内容
+> 
+1.  **文字讹误修正**：统一将全文多处“杵臼”更正为“舂杵”，并同步更新英文摘要中对应表述
+2.  **器名订正**：将“五年师㫃史簋”更正为“五年师旂簋”
+3.  **表述润色优化**：对部分语句进行精准润色，行文更严谨流畅
+4.  **核心逻辑保留**：核心观点与整体论证逻辑未作改动，仅完善细节表述>
+5.  
+6.   学术诚信与思想主权声明
 
 本文档（仓库）旨在提出并论证关于汉字“午”起源的假说。为保障研究过程的可验证性与思想主权的明确性，特此声明：
 
@@ -42,7 +54,7 @@ a# research-on-wu-character
 本GitHub仓库中的所有内容（包括研究快报、章节文稿及相关资料），均为该主权声明文件所述思想体系的衍生性阐述、论证与发布。其初步观点已于2026年1月16日以预印本形式发布（版本号:  v1.0.0-alpha ）。
 - 【中文简介】
 首次提交：关于汉字“午”本源的革命性假说
-本研究提出并论证：汉字“午”源于华夏先民对苍龙星宿（心宿二、角宿）的符号化表达。其甲骨文之“柔”为星图，金文之“刚”为图腾，形态演变实录了从“祈天降临”到“法天飞升”的精神史诗。此假说一举破解“杵臼说”与“绳索说”的千年对立，并为“端午”、“午门”等核心文化制度提供了终极解释。本文为“华夏文明源代码”系列研究的开篇基石。
+本研究提出并论证：汉字“午”源于华夏先民对苍龙星宿（心宿二、角宿）的符号化表达。其甲骨文之“柔”为星图，金文之“刚”为图腾，形态演变实录了从“祈天降临”到“法天飞升”的精神史诗。此假说一举破解“舂杵说”与“绳索说”的矛盾对立，并为“端午”、“午门”等核心文化制度提供了终极解释。本文为“华夏文明源代码”系列研究的开篇基石。
 【English Description】
 Initial Commit: A Revolutionary Hypothesis on the Origin of Chinese Character "Wu"
-This study proposes and argues that the Chinese character "Wu" (午) originated as a symbolic representation of the Azure Dragon constellation (Antares, Jiao Su) in ancient Chinese astronomy. Its "pliable" form in oracle bone script depicts the star map, while its "rigid" form in bronze inscriptions embodies the totem. This morphological evolution records a spiritual epic from "praying for celestial descent" to "emulating heavenly ascent." This hypothesis resolves the millennia-old dispute between the "mortar" and "rope" theories and provides the ultimate explanation for core cultural institutions like the Dragon Boat Festival ("Duanwu") and the Meridian Gate ("Wumen"). This paper serves as the foundational stone for the "Source Code of Huaxia Civilization" research series.
+This study proposes and argues that the Chinese character "Wu" (午) originated as a symbolic representation of the Azure Dragon constellation (Antares, Jiao Su) in ancient Chinese astronomy. Its "pliable" form in oracle bone script depicts the star map, while its "rigid" form in bronze inscriptions embodies the totem. This morphological evolution records a spiritual epic from "praying for celestial descent" to "emulating heavenly ascent." This hypothesis resolves the millennia-old dispute between the "pestle and rope" theories and provides the ultimate explanation for core cultural institutions like the Dragon Boat Festival (Duanwu) and the Meridian Gate ("Wumen"). This paper serves as the foundational stone for the "Source Code of Huaxia Civilization" research series.
